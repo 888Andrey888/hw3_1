@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hw3_1</string>
+    <string name="email">Введите Email</string>
+    <string name="subject">Введите тему письма</string>
+    <string name="send_message">Send Message</string>
+</resources>
